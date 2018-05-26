@@ -1,0 +1,4 @@
+<resources>
+<string name="app_name">MiniMapp</string><!-- 10.0.2.2 -->
+<string name="url">http://f77d6301.ngrok.io/MiniMapp/public/api/MiniMappIndex</string>
+</resources>
